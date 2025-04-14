@@ -58,9 +58,9 @@
 
 ## 📊 GitHub Contributions
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamcsc4656&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamcsc4656&theme=react&hide_border=false&layout=compact)
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shubhamcsc4656&theme=react-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamkangune&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkangune&theme=react&hide_border=false&layout=compact)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shubhamkangune&theme=react-dark)
 
 ---
 
@@ -68,7 +68,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/shubham-kangune-89129324b/)
 - 📧 [shubhamcsc4656@gmail.com](mailto:shubhamcsc4656@gmail.com)
-- 🔗 [GitHub](https://github.com/shubhamcsc4656)
+- 🔗 [GitHub](https://github.com/shubhamkangune)
 
 ---
 
