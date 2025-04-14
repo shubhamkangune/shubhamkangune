@@ -1,78 +1,82 @@
-<h1 align="center">Hi 👋, I'm Shubham Balkrushna Kangune</h1>
-<h3 align="center">A passionate Mechanical Engineer transitioning into IT</h3>
+# 💻 Shubham Balkrushna Kangune | Mechanical Engineer to IT Explorer
+
+👋 Hey there! I'm **Shubham**, a final-year Mechanical Engineering student with a growing passion for **software development** and **tech innovation**. While my roots are in designing with CAD tools, I’m now building skills in programming and web development to create meaningful and scalable tech solutions. 🚀
 
 ---
 
-## 💫 About Me
+## 🔭 Currently
 
-🎓 **Final-year Mechanical Engineering student**  
-📍 Ajeenkya D.Y. Patil School of Engineering, Pune (2025)  
-💻 Currently learning **React** and expanding my programming skills  
-🤝 Looking to collaborate on **open-source** and **tech projects**  
-🛠️ Skilled in **C**, **C++**, **Python**, **AutoCAD**, **SolidWorks**, **CATIA V5**, **ANSYS**  
-🗣️ I speak **Marathi**, **Hindi**, and **English**  
-🌱 Nature lover – trekking to forts & exploring the outdoors  
-🎮 Hobbyist gamer during downtime  
+- Working on transitioning into IT by learning **React**, **JavaScript**, and other web technologies.
+- Exploring how my mechanical engineering background can complement modern tech solutions.
+- Practicing hands-on projects and automating tasks using Python.
 
 ---
 
-## 🌐 Connect with Me
+## 🌱 Learning Journey
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kangune-89129324b/)  
-📧 [shubhamcsc4656@gmail.com](mailto:shubhamcsc4656@gmail.com)  
-📱 8459117697
-
----
-
-## 💻 Tech Stack
-
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/AutoCAD-E34F26?style=for-the-badge&logo=autodesk&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/CATIA-003DA5?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/ANSYS-FFB500?style=for-the-badge&logo=ansys&logoColor=black"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></td>
-    <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></td>
-  </tr>
-</table>
+- 📚 Diving deeper into **React**, **Frontend development**, and **Git**.
+- 💻 Brushing up problem-solving in **C++** and **Python**.
+- 🧠 Getting familiar with version control, responsive UI, and best coding practices.
 
 ---
 
-## 📊 GitHub Stats
+## 👯 Open to Collaborate
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamcsc4656&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamcsc4656&theme=react&hide_border=false&layout=compact" />
-</div>
+- ✅ Open-source contributions
+- ✅ Real-world web or automation projects
+- ✅ Beginners-friendly hackathons or team-based builds
 
 ---
 
-## 🏆 GitHub Trophies
+## 💬 Ask Me About
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubhamcsc4656&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shubhamcsc4656&theme=react-dark"/>
-</p>
+- 🚀 My experience with **CAD tools** like AutoCAD, SolidWorks, CATIA V5, and ANSYS
+- 🧠 How engineering logic is helping me write better code
+- 🎯 My focus on building a career at the intersection of **engineering** and **tech**
 
 ---
 
-> “Engineering gave me the mindset. Tech is giving me the tools to build the future.” 🚀
+## 📌 Highlights
+
+- 💡 Blend of design thinking from mechanical engineering + logic from programming
+- 🏆 Consistent GitHub activity and continuous learning mindset
+- 🧩 Love solving practical problems with automation and optimization
+- 🌄 A nature enthusiast who enjoys trekking forts and exploring outdoors
+- 🎮 Gaming keeps me refreshed in downtime!
+
+---
+
+## 🚀 Tech Stack
+
+### 🧠 Programming Languages
+- C • C++ • Python • JavaScript
+
+### ⚙️ Tools & Software
+- AutoCAD • SolidWorks • CATIA V5 • ANSYS
+
+### 🌐 Web Development
+- React • HTML • CSS • Git
+
+---
+
+## 📊 GitHub Contributions
+
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamcsc4656&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamcsc4656&theme=react&hide_border=false&layout=compact)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shubhamcsc4656&theme=react-dark)
+
+---
+
+## 📫 Let’s Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/shubham-kangune-89129324b/)
+- 📧 [shubhamcsc4656@gmail.com](mailto:shubhamcsc4656@gmail.com)
+- 📱 8459117697
+- 🔗 [GitHub](https://github.com/shubhamcsc4656)
+
+---
+
+## ✨ Fun Fact
+
+I’m always up for solving real-world problems with logic, design, and creativity. Let’s build something meaningful together! 🌟  
+⭐ *Don’t forget to star the repositories you find helpful – your support means a lot!* 😊
