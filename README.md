@@ -1,67 +1,64 @@
-# 💻 Shubham Balkrushna Kangune | Mechanical Engineer to IT Explorer
+# 💻 Shubham Balkrushna Kangune | Aspiring Software & Data Science Engineer
 
-👋 Hey there! I'm **Shubham**, a final-year Mechanical Engineering student with a growing passion for **software development** and **tech innovation**. While my roots are in designing with CAD tools, I’m now building skills in programming and web development to create meaningful and scalable tech solutions. 🚀
+👋 Hi! I'm **Shubham**, a final-year Mechanical Engineering student transitioning into the world of **Software Development** and **Data Science**. I'm passionate about using code and data to solve real-world problems and create scalable tech solutions. 🚀
 
 ---
 
 ## 🔭 Currently
 
-- Working on transitioning into IT by learning **React**, **JavaScript**, and other web technologies.
-- Exploring how my mechanical engineering background can complement modern tech solutions.
-- Practicing hands-on projects and automating tasks using Python.
+- 📈 Learning **Data Science** and its real-world applications.
+- 🧠 Improving in **Python**, **JavaScript**, and **React** for full-stack web development.
+- 💡 Exploring how to merge my engineering logic with software systems and analytics.
 
 ---
 
-## 🌱 Learning Journey
+## 🌱 Learning Path
 
-- 📚 Diving deeper into **React**, **Frontend development**, and **Git**.
-- 💻 Brushing up problem-solving in **C++** and **Python**.
-- 🧠 Getting familiar with version control, responsive UI, and best coding practices.
+- 🐍 Python for Data Analysis & Machine Learning
+- 📊 Hands-on with:  
+  `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Jupyter Notebook`
+- 🌐 Building UI with:  
+  `React` • `HTML` • `CSS`
+- 🔧 Gaining familiarity with:  
+  `Git` • `GitHub` • `VS Code` • `Problem Solving (DSA)`
 
 ---
 
-## 👯 Open to Collaborate
+## 👯 Open to Collaborate On
 
-- ✅ Open-source contributions
-- ✅ Real-world web or automation projects
-- ✅ Beginners-friendly hackathons or team-based builds
+- Data analysis or visualization projects  
+- Web apps with a data-driven backend  
+- Beginner-friendly open-source contributions  
 
 ---
 
 ## 💬 Ask Me About
 
-- 🚀 My experience with **CAD tools** like AutoCAD, SolidWorks, CATIA V5, and ANSYS
-- 🧠 How engineering logic is helping me write better code
-- 🎯 My focus on building a career at the intersection of **engineering** and **tech**
-
----
-
-## 📌 Highlights
-
-- 💡 Blend of design thinking from mechanical engineering + logic from programming
-- 🏆 Consistent GitHub activity and continuous learning mindset
-- 🧩 Love solving practical problems with automation and optimization
-- 🌄 A nature enthusiast who enjoys trekking forts and exploring outdoors
-- 🎮 Gaming keeps me refreshed in downtime!
+- Structuring engineering/design problems with a programming mindset  
+- Using Python for data-driven decision-making  
+- Transitioning from mechanical to tech fields  
 
 ---
 
 ## 🚀 Tech Stack
 
 ### 🧠 Programming Languages
-- C • C++ • Python • JavaScript
+- Python • C++ • JavaScript • C
 
-### ⚙️ Tools & Software
-- AutoCAD • SolidWorks • CATIA V5 • ANSYS
+### 📦 Data Science Libraries
+- NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn • Jupyter Notebook
 
-### 🌐 Web Development
+### 🌐 Web & Development
 - React • HTML • CSS • Git
+
+### 🛠️ Engineering Design Tools
+- AutoCAD • SolidWorks • CATIA V5 • ANSYS
 
 ---
 
 ## 📊 GitHub Contributions
 
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamcsc4656&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamcsc4656&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamcsc4656&theme=react&hide_border=false&layout=compact)
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shubhamcsc4656&theme=react-dark)
 
@@ -71,12 +68,11 @@
 
 - [LinkedIn](https://www.linkedin.com/in/shubham-kangune-89129324b/)
 - 📧 [shubhamcsc4656@gmail.com](mailto:shubhamcsc4656@gmail.com)
-- 📱 8459117697
 - 🔗 [GitHub](https://github.com/shubhamcsc4656)
 
 ---
 
-## ✨ Fun Fact
+## 🚀 Fun Fact
 
-I’m always up for solving real-world problems with logic, design, and creativity. Let’s build something meaningful together! 🌟  
-⭐ *Don’t forget to star the repositories you find helpful – your support means a lot!* 😊
+I believe in learning by building — whether it's data-driven applications or sleek UIs. Let’s collaborate and turn ideas into impactful tech! 🌟  
+⭐ *If you find my repos helpful, consider starring them — your support keeps me going!*
