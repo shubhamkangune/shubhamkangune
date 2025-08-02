@@ -1,4 +1,4 @@
-<!--
+
 # 💻 Shubham Balkrushna Kangune | Aspiring Software & Data Science Engineer
 
 👋 Hi! I'm **Shubham**, a final-year Mechanical Engineering student transitioning into the world of **Software Development** and **Data Science**. I'm passionate about using code and data to solve real-world problems and create scalable tech solutions. 🚀
@@ -79,4 +79,3 @@
 I believe in learning by building — whether it's data-driven applications or sleek UIs. Let’s collaborate and turn ideas into impactful tech! 🌟  
 ⭐ *If you find my repos helpful, consider starring them — your support keeps me going!*
 
--->
