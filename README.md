@@ -16,7 +16,7 @@
 
 - 🐍 Python for Data Analysis & Machine Learning  
 - 📊 Hands-on with:  
-  `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Jupyter Notebook`  
+  `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Plotly` • `Jupyter Notebook`  
 - 🌐 Frontend development using:  
   `React` • `HTML` • `CSS`  
 - 🔧 Tooling & Practice:  
@@ -46,7 +46,7 @@
 `Python` • `C++` • `JavaScript` • `C`
 
 ### 📦 Data Science Libraries
-`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Jupyter Notebook`
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Plotly` • `Jupyter Notebook`
 
 ### 🌐 Web & Development
 `React` • `HTML` • `CSS` • `Git`
@@ -65,9 +65,10 @@
 
 ## 📫 Let’s Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shubham-kangune-89129324b/)
-- 📧 [shubhamcsc4656@gmail.com](mailto:shubhamcsc4656@gmail.com)
-- 🐙 [GitHub](https://github.com/shubhamkangune)
+- 🔗 [Portfolio Website](https://shubhamkangune-portfolio.vercel.app/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shubham-kangune-89129324b/)  
+- 📧 [shubhamcsc4656@gmail.com](mailto:shubhamcsc4656@gmail.com)  
+- 🐙 [GitHub](https://github.com/shubhamkangune)  
 
 ---
 
@@ -76,4 +77,4 @@
 I believe in **learning by building** — whether it's data-powered tools or interactive web apps.  
 Let’s **collaborate** and turn ideas into impactful technology! 🌟  
 
-⭐ *If you find my repositories helpful, please consider starring them — your support means a lot!*
+⭐ *If you find my repositories helpful, please consider starring them — your support means a lot!*  
