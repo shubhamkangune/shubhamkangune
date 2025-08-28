@@ -58,7 +58,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamkangune&theme=react&hide_border=false&include_all_commits=true&count_private=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamkangune&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkangune&theme=react&hide_border=false&layout=compact)
 
 
