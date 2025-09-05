@@ -1,7 +1,6 @@
 # 💻 [Shubham Balkrushna Kangune](https://shubhamkangune-portfolio.vercel.app/) | Aspiring Software & Data Science Engineer
 
 👋 Hi! I'm **Shubham**, a final-year **Mechanical Engineering** student transitioning into the world of **Software Development** and **Data Science**. I'm passionate about using **code** and **data** to solve real-world problems and build scalable tech solutions. 🚀
-
 ---
 
 ## 🔭 Currently Working On
