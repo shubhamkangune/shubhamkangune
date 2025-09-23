@@ -16,26 +16,26 @@
 ---
 
 👋 Hi! I'm **Shubham**, a final-year **Mechanical Engineering** student transitioning into **Software Development** and **Data Science**.  
-I’m passionate about turning **data into insights** and building **scalable, real-world tech solutions** using modern programming tools. 🚀  
+I enjoy turning **data into insights** and building **scalable tech solutions** using programming and analytics. 🚀  
 
 ---
 
 ## 🔭 Currently Focusing On  
 
-- 📊 Learning **Data Science** and applying it to real-world datasets  
-- 🌐 Building interactive **web applications** using **React & JavaScript**  
-- 🤖 Strengthening knowledge in **Machine Learning** with Python libraries  
+- 📊 Learning **Data Science & Data Analysis** using Python and Power BI  
+- 🌐 Building interactive **web applications** with **React & JavaScript**  
+- 🤖 Strengthening knowledge in **Machine Learning** and data visualization  
 
 ---
 
 ## 🌱 Learning Path  
 
-- **Data Science & Analytics**:  
-  `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Plotly` • `Power BI` • `Jupyter Notebook`  
-- **Web Development**:  
-  `React` • `JavaScript` • `HTML` • `CSS`  
-- **Core Tools & Practices**:  
-  `Git` • `GitHub` • `VS Code` • `Problem Solving (DSA)`  
+- **Data Analysis & Science:**  
+  Python • NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn • Plotly • Power BI • Jupyter Notebook  
+- **Web Development:**  
+  React • JavaScript • HTML • CSS  
+- **Core Tools & Practices:**  
+  Git • GitHub • VS Code • Problem Solving (DSA)  
 
 ---
 
@@ -43,31 +43,25 @@ I’m passionate about turning **data into insights** and building **scalable, r
 
 - 📊 Data analysis & visualization projects  
 - 🌐 Data-driven full-stack web applications  
-- 🌱 Beginner-friendly **open-source** projects  
+- 🌱 Beginner-friendly open-source contributions  
 
 ---
 
 ## 💬 Let’s Talk About  
 
 - Transitioning from **Mechanical Engineering** → **Software & Data Science**  
-- Applying Python to solve **engineering & business problems**  
-- Combining **analytical thinking** with **programming**  
+- Applying Python and Power BI for **data-driven decision making**  
+- Structuring engineering problems using **programming logic**  
 
 ---
 
 ## 🚀 Tech Stack  
 
-### 🧠 Programming  
-`Python` • `C++` • `JavaScript` • `C`  
-
-### 📦 Data Science & Analytics  
-`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Plotly` • `Power BI` • `Jupyter Notebook`  
-
-### 🌐 Web Development  
-`React` • `HTML` • `CSS` • `Git`  
-
-### 🛠️ Mechanical Design Tools  
-`AutoCAD` • `SolidWorks` • `CATIA V5` • `ANSYS`  
+**Programming:** Python • C++ • JavaScript • C  
+**Web Development:** React • HTML • CSS  
+**Data Analysis & Science:** Python • NumPy • Pandas • Scikit-learn • Plotly • Power BI • Jupyter Notebook  
+**Version Control & Tools:** Git • GitHub • VS Code  
+**Mechanical Design Tools:** AutoCAD • SolidWorks • CATIA V5 • ANSYS  
 
 ---
 
@@ -91,6 +85,6 @@ I’m passionate about turning **data into insights** and building **scalable, r
 ## ✨ Fun Fact  
 
 I believe in **learning by building** — whether it’s a **data-powered tool** or an **interactive web app**.  
-Always excited to **collaborate** and turn ideas into impactful technology! 🌟  
+Excited to **collaborate** and turn ideas into impactful technology! 🌟  
 
-⭐ *If you find my work helpful, consider giving a star — your support motivates me to keep building!*  
+⭐ *If you find my work helpful, consider giving a star — your support motivates me to keep building!*
