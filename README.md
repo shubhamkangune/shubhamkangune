@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Balkrushna Kangune</h1>
-<h3 align="center">Aspiring Software Developer | Data Science Enthusiast</h3>
+<h3 align="center">Data Analyst | BI Developer | Python & SQL Enthusiast | 2025 Graduate</h3>
 
 <p align="center">
   <a href="https://shubhamkangune-portfolio.vercel.app/" target="_blank">
@@ -15,94 +15,79 @@
 
 ---
 
-## ⚡ About Me  
-- Final-year **Mechanical Engineering** student  
-- Transitioning into **Software Development & Data Science**  
-- Passionate about **Machine Learning, Analytics & React Development**  
-- Love building **smart, functional & clean UI-based applications**  
+## 🔍 About Me  
+- **Data Analyst passionate about data-driven decision making**  
+- **2025 Graduate – B.E. Mechanical Engineering (ADYPSOE, Pune)**  
+- Skilled in **Python, SQL, Power BI, Tableau & Excel**  
+- Love turning raw data into **interactive dashboards, insights & predictive models**  
+- Curious mind with strong analytical and problem-solving abilities  
 
 ---
 
-## 🚀 Tech Stack (Click Logos to Learn)
+## 📊 Tech Stack (Data Analyst Focus)
 
-### **💻 Programming**
+### **🧪 Data Analysis Tools**
 <p>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
-### **🌐 Web Development**
+### **📚 Python Libraries**
 <p>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4EABD9?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
-### **📊 Data Science & Analytics**
+### **📊 Business Intelligence Tools**
 <p>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  </a>
-  <a href="https://plotly.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  </a>
-  <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  </a>
-  <a href="https://www.anaconda.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Data_Studio-669DF6?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 </p>
 
-### **🛠 Tools**
+### **🛠 Tools & Platforms**
 <p>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
-## 💡 Currently Working On  
-- Data Science + ML model building  
-- React-based modern web apps  
-- Power BI / Tableau dashboards  
-- Python projects + DSA improvement  
+## 📂 Featured Data Analytics Projects  
+
+### 📌 **1. Sales Analytics Dashboard (Power BI)**  
+- Interactive dashboard with **KPIs, region-wise performance & profit trends**  
+- Used DAX measures, data modeling & custom visuals  
+
+### 📌 **2. E-commerce Data Analysis (Python)**  
+- Cleaned 40K+ rows  
+- Performed EDA, segmentation, RFM analysis  
+- Visualized customer behavior & trends  
+
+### 📌 **3. Employee Attrition Prediction (ML)**  
+- Feature engineering  
+- Logistic Regression & Random Forest  
+- Achieved strong predictive accuracy  
+
+📌 *More projects coming soon…*
 
 ---
 
-## 📊 GitHub Analytics  
+## 💡 Currently Learning  
+- Advanced SQL (Joins, CTEs, Window Functions)  
+- Time-series analysis  
+- Power BI DAX & Tableau storytelling  
+- ML for Analytics  
+
+---
+
+## 📈 GitHub Analytics  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubhamkangune&show_icons=true&theme=react&hide_border=false" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkangune&layout=compact&theme=react&hide_border=false" />
@@ -130,5 +115,4 @@
 ---
 
 ## ✨ Fun Fact  
-💡 I believe in **learning by building**, not memorizing.  
-⭐ If you like my work, giving a star motivates me a lot!
+📊 **Data tells stories — I just translate them.**
