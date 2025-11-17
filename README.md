@@ -1,90 +1,103 @@
-# 💻 [Shubham Balkrushna Kangune](https://shubhamkangune-portfolio.vercel.app/) | Aspiring Software & Data Science Engineer  
+<!-- Banner / Title -->
+<h1 align="center">Hi 👋, I'm Shubham Balkrushna Kangune</h1>
+<h3 align="center">Aspiring Software Developer • Data Science Enthusiast • Problem Solver</h3>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-
----
-
-👋 Hi! I'm **Shubham**, a final-year **Mechanical Engineering** student transitioning into **Software Development** and **Data Science**.  
-I enjoy turning **data into insights** and building **scalable tech solutions** using programming and analytics. 🚀  
+<p align="center">
+  <a href="https://shubhamkangune-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/shubhamkangune" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:shubhamcsc4656@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🔭 Currently Focusing On  
-
-- 📊 Learning **Data Science & Data Analysis** using Python and Power BI  
-- 🌐 Building interactive **web applications** with **React & JavaScript**  
-- 🤖 Strengthening knowledge in **Machine Learning** and data visualization  
-
----
-
-## 🌱 Learning Path  
-
-- **Data Analysis & Science:**  
-  Python • NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn • Plotly • Power BI • Jupyter Notebook  
-- **Web Development:**  
-  React • JavaScript • HTML • CSS  
-- **Core Tools & Practices:**  
-  Git • GitHub • VS Code • Problem Solving (DSA)  
+## ⚡ About Me  
+🔹 Final-year **Mechanical Engineering** student transitioning into **Software & Data Science**  
+🔹 Passionate about **Python, Machine Learning, and Web Development**  
+🔹 Love turning **raw data into insights** and creating **clean UI-based web apps**  
+🔹 Focused on writing **clean, scalable, and efficient code**
 
 ---
 
-## 🤝 Open to Collaborations  
+## 🔥 Tech Stack & Tools
 
-- 📊 Data analysis & visualization projects  
-- 🌐 Data-driven full-stack web applications  
-- 🌱 Beginner-friendly open-source contributions  
+### **💻 Programming & Development**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
 
----
+### **📊 Data Science & Analytics**
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+</p>
 
-## 💬 Let’s Talk About  
-
-- Transitioning from **Mechanical Engineering** → **Software & Data Science**  
-- Applying Python and Power BI for **data-driven decision making**  
-- Structuring engineering problems using **programming logic**  
-
----
-
-## 🚀 Tech Stack  
-
-**Programming:** Python • C++ • JavaScript • C  
-**Web Development:** React • HTML • CSS  
-**Data Analysis & Science:** Python • NumPy • Pandas • Scikit-learn • Plotly • Power BI • Jupyter Notebook  
-**Version Control & Tools:** Git • GitHub • VS Code  
-**Mechanical Design Tools:** AutoCAD • SolidWorks • CATIA V5 • ANSYS  
-
----
-
-## 📊 GitHub Highlights  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamkangune&theme=react&hide_border=false&show_icons=true&count_private=true&include_all_commits=false)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkangune&theme=react&hide_border=false&layout=compact)  
+### **🛠 Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
 
 ---
 
-## 📫 Connect With Me  
+## 🚀 Currently Working On
+- 📊 **Data Science + Machine Learning Projects**  
+- 🌐 Building modern **React + JavaScript** web applications  
+- ⚙️ Improving **DSA skills** & problem-solving  
+- 📈 Data dashboards (Power BI, Tableau, Plotly)
 
-- 🌐 [Portfolio Website](https://shubhamkangune-portfolio.vercel.app/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/shubham-kangune-89129324b/)  
-- 📧 [Email](mailto:shubhamcsc4656@gmail.com)  
-- 🐙 [GitHub](https://github.com/shubhamkangune)  
+---
+
+## 🤝 Open to Collaborations
+- Data Analytics & Visualization  
+- Machine Learning beginner projects  
+- Full-stack web development  
+- Open-source contributions  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubhamkangune&show_icons=true&theme=react&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkangune&layout=compact&theme=react&hide_border=false" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkangune&theme=react" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://shubhamkangune-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shubham-kangune-89129324b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shubhamcsc4656@gmail.com"><img src="https://img.shields.io/badge/Email-Send-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
 ## ✨ Fun Fact  
+💡 I believe in **learning by building** — every project makes me better.  
 
-I believe in **learning by building** — whether it’s a **data-powered tool** or an **interactive web app**.  
-Excited to **collaborate** and turn ideas into impactful technology! 🌟  
-
-⭐ *If you find my work helpful, consider giving a star — your support motivates me to keep building!*
+⭐ *If you like my work, consider giving a star. It motivates me to keep creating!*  
