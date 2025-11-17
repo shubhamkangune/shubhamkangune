@@ -5,7 +5,7 @@
   <a href="https://shubhamkangune-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/shubham-kangune-89129324b/" target="_blank">
+  <a href="https://www.linkedin.com/in/shubhamkangune/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shubhamcsc4656@gmail.com">
@@ -82,9 +82,15 @@
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubham-kangune-89129324b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shubhamcsc4656@gmail.com"><img src="https://img.shields.io/badge/Email-Send-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/shubhamkangune"><img src="https://img.shields.io/badge/GitHub-Visit-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shubhamkangune/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shubhamcsc4656@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/shubhamkangune">
+    <img src="https://img.shields.io/badge/GitHub-Visit-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -92,4 +98,3 @@
 ## ✨ Fun Fact  
 💡 I believe in **learning by building**, not memorizing.  
 ⭐ If you like my work, giving a star motivates me a lot!
-
