@@ -89,12 +89,23 @@
 
 ## 📈 GitHub Analytics  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubhamkangune&show_icons=true&theme=react&hide_border=false" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkangune&layout=compact&theme=react&hide_border=false" />
+
+  <!-- GitHub Stats -->
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=shubhamkangune&show_icons=true&theme=react&rank_icon=github" />
+
+  <!-- Top Languages -->
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkangune&layout=compact&theme=react" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkangune&theme=react" />
+
+  <!-- Streak Stats -->
+  <img 
+       src="https://streak-stats.demolab.com?user=shubhamkangune&theme=react" />
+
 </p>
 
 ---
