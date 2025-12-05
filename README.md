@@ -90,33 +90,12 @@
 ## 📈 GitHub Analytics  
 <p align="center">
 
-  <!-- Primary: GitHub Readme Stats (vercel) - reliable primary source -->
-  <img width="48%"
-       alt="GitHub stats"
-       src="https://github-readme-stats.vercel.app/api?username=shubhamkangune&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-
-  <!-- Primary: Top Languages -->
-  <img width="48%"
-       alt="Top languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkangune&layout=compact&theme=react" />
-</p>
-
-<p align="center">
-
-  <!-- Streaks: try demolab first -->
+  <!-- Streaks -->
   <img alt="GitHub Streak" 
        src="https://streak-stats.demolab.com?user=shubhamkangune&theme=react" />
-
-  <!-- Fallbacks (uncomment one if the above fails):
-       1) Herokuapp fallback (may be deprecated): 
-          https://github-readme-streak-stats.herokuapp.com/?user=shubhamkangune&theme=react
-       2) If both fail, use a followers badge (shields) as a minimal reliable stat:
-          https://img.shields.io/github/followers/shubhamkangune?style=social
-  -->
 </p>
 
 <p align="center">
-  <!-- Optional: small follower & repo badges as always-available fallbacks -->
   <img alt="Followers" src="https://img.shields.io/github/followers/shubhamkangune?label=Followers&style=flat" />
   &nbsp;
   <img alt="Repos" src="https://img.shields.io/github/repo-size/shubhamkangune/Text-Utils?style=flat" />
